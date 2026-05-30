@@ -1,0 +1,6 @@
+dist/
+build/
+installer_output/
+save.json
+*.spec
+__pycache__/
